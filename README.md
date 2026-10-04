@@ -1,13 +1,33 @@
-# Prayatn 2.0 — Legacy Project
+# Prayatn 2.0 — Complaint Intelligence Prototype
 
-> 🗃️ **Status: Archived learning / event project**
->
-> This repository is preserved as part of my earlier project history and is **not actively maintained**.
+> **Status:** 🟡 Legacy research / prototype project
 
-## Portfolio context
+An early NLP/LLM experimentation project exploring complaint collection, classification, summarisation and data processing.
 
-Prayatn 2.0 represents an earlier stage of my development journey. I keep it as historical evidence of hands-on project work while my current engineering focus has moved toward **enterprise automation, backend/API development, AI systems and cloud engineering**.
+## What it explored
 
----
+```text
+Complaint Data
+     ↓
+Collection / Scraping
+     ↓
+Cleaning & Processing
+     ↓
+Classification
+     ↓
+LLM / MongoDB Experiments
+     ↓
+Summarisation & Analysis
+```
 
-**Current status:** 🗃️ Legacy / no active development
+The repository contains Python experiments for complaint scraping, preprocessing, classification, LLM interaction and persisted datasets.
+
+## Why it matters in my journey
+
+This project represents an earlier step toward my current interest in **AI engineering, LLM applications and intelligent automation**. It is preserved for historical context rather than presented as a production-ready system.
+
+## Current status
+
+🟡 **Legacy / no active development**
+
+For current AI engineering work, see my [AI Email Agent](https://github.com/GAURAV142004/ai-email-agent).
